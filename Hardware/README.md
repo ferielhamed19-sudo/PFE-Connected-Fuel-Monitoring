@@ -61,6 +61,12 @@ A 6-axis accelerometer and gyroscope used for:
 - Vehicle tilt monitoring
 - Fuel level correction
 - Acceleration monitoring
+  
+### Water Detection Sensor
+
+A dedicated water detection circuit is used to detect the presence of water in the fuel tank.
+
+This functionality helps identify potential fuel contamination and can trigger an alert when water is detected.
 
 ## Communication Module
 
