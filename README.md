@@ -12,7 +12,9 @@ The system monitors fuel level and vehicle parameters in real time and transmits
 - Detect abnormal fuel variations
 - Monitor vehicle inclination
 - Measure fuel temperature
+- Detect water contamination in the fuel tank
 - Read vehicle data through CAN/J1939
+- Detect fuel theft and fuel leaks
 - Transmit data using IoT communication
 - Provide remote monitoring and alerts
 
